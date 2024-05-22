@@ -174,6 +174,13 @@
   background-color: #6c8cff;
   border: none;
 }
+.is-hidden {
+  display: none;
+}
+
+.is-active {
+  display: block;
+}
 *::before,
 *::after {
   box-sizing: border-box;
